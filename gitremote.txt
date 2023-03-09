@@ -1,1 +1,9 @@
 akhil
+1.github account
+2.Empty repo
+local sysytem 
+git config --global user.name "Rex10naruto"
+git config --global user.email"101akhisingh@gmail.com"
+git push -u origin master
+username 
+password
